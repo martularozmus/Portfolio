@@ -45,3 +45,7 @@ From the beginning, my professional path has been associated with teamwork and p
   - Browser and mobile device logs,
   - API testing.
 - [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+
+## Tech skills:
+- [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+- [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
