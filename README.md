@@ -22,6 +22,7 @@ From the beginning, my professional path has been associated with teamwork and p
 - Git, GitHub.
 ### Other:
 - PopSQL,
+- JIRA,
 - browser DevTools.
 ## Courses
 - Tech Leaders - [Become a Manual Tester](link do cetryfikatu na google):
@@ -43,3 +44,4 @@ From the beginning, my professional path has been associated with teamwork and p
   - Screenshots and screen recordings,
   - Browser and mobile device logs,
   - API testing.
+- [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
