@@ -33,10 +33,7 @@ From the beginning, my professional path has been associated with teamwork and p
   - Mobile application testing,
   - **SQL** basics,
   - [Repository with all tasks](link do gita).
-
-  - Integration testing, 
-  - API testing, 
-  - E2E tests,
+  
   - Automation testing with **Cypress**
 - uTest Academy:
   - Exploratory tests,
@@ -49,3 +46,21 @@ From the beginning, my professional path has been associated with teamwork and p
 ## Tech skills:
 - [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 - [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
+- Integration testing, 
+- Rest API testing, 
+- E2E tests,
+- Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+- Software testing,
+- Scrum workflow,
+- Testing UAT,
+- Creating documentation,
+- Basic HTML and CSS,
+- Reporting bugs,
+- Creating test cases
+
+## Soft skills:
+- patience
+- communication
+- precision
+- empathy
+
