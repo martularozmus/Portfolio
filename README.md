@@ -25,15 +25,13 @@ From the beginning, my professional path has been associated with teamwork and p
 - JIRA,
 - browser DevTools.
 ## Courses
-- Tech Leaders - [Become a Manual Tester](link do cetryfikatu na google):
+- Tech Leaders - [Junior QA Engineer Preparation Program](link do cetryfikatu na google):
 
   - Exploratory tests,
   - Writing test cases,
   - Bug reporting,
-  - Mobile application testing,
+  - API testing,
   - **SQL** basics,
-  - [Repository with all tasks](link do gita).
-  
   - Automation testing with **Cypress**
 - uTest Academy:
   - Exploratory tests,
