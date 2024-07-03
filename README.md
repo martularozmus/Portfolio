@@ -4,8 +4,8 @@ From the beginning, my professional path has been associated with teamwork and p
 ### Automation tests:
 * [Automation tests for Contact List App](linkd do repozytorim na githubie), written in **JavaScript** with **Cypress** framework
 ### Test cases:
-* [Tested website](https://thinking-tester-contact-list.herokuapp.com/) - [Test cases based on given user stories](link do doksa google)
-* [Tested website](https://thinking-tester-contact-list.herokuapp.com/) - [Test cases invented by me](link do doksa google)
+* [Tested website](https://thinking-tester-contact-list.herokuapp.com/) - [Test cases based on given user stories]([link do doksa google](https://docs.google.com/spreadsheets/d/1r3vS7pHKNPxiZW9HhoVQ2zyKChzo5z-s52egAvtuX7c/edit?usp=sharing))
+  
 ### Bug reports:
 * [Website Bug Reports](lin do doksa google)
 > All bug reports were written based on bugs found during manual implementation Test Cases listed above on the [different version of the testing website](https://thinking-tester-contact-list.herokuapp.com/)
