@@ -25,7 +25,7 @@ From the beginning, my professional path has been associated with teamwork and p
 - JIRA
 - browser DevTools
 ## Courses
-- Tech Leaders - [Junior QA Engineer Preparation Program](link do cetryfikatu na google):
+- Tech Leaders - [Junior QA Engineer Preparation Program](https://drive.google.com/file/d/1Cn2msMXcVuWxQKx3N5IR57a0y9HCBYpc/view?usp=sharing):
 
   - Exploratory tests
   - Writing test cases
