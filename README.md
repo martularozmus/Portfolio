@@ -2,7 +2,7 @@
 From the beginning, my professional path has been associated with teamwork and process improvement. Projects have evolved from the strictly technical industry, through the photography and film industry, to security. Thanks to the relationships I have developed in interdisciplinary teams and the project approach, I have gained extensive experience focused on achieving optimal results and deriving satisfaction from the project. My natural predisposition is to raise quality standards. I have been successfully working in this area for over 10 years. I was responsible for implementing ISO standards, developing the Printbox photography application, participating in the digital transformation of a security company, and coordinating the opening of the Podkarpackie Film Trail. A Quality Assurance-oriented mindset and unbridled curiosity have made me currently develop into an Application Tester. Currently, I am in the process of changing my career to the role of Quality Assurance Specialist, which I do by participating in training and courses to improve my knowledge in this field.
 ## My projects
 ### Automation tests:
-* [Automation tests for Contact List App](linkd do repozytorim na githubie), written in **JavaScript** with **Cypress** framework
+* [Automation tests for Contact List App](https://github.com/martularozmus/CYPRESS-automation-tests-for-contact-list-app/tree/master), written in **JavaScript** with **Cypress** framework
 ### Test cases:
 * [Tested website](https://opensource-demo.orangehrmlive.com/) - [Test cases based on given user stories](https://docs.google.com/spreadsheets/d/1r3vS7pHKNPxiZW9HhoVQ2zyKChzo5z-s52egAvtuX7c/edit?usp=sharing)
   
