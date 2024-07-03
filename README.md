@@ -41,7 +41,10 @@ From the beginning, my professional path has been associated with teamwork and p
   - Screenshots and screen recordings,
   - Browser and mobile device logs,
   - API testing.
-- [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+- SQL:
+  - [SQL in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+  - [SQL and Databases](https://www.freecodecamp.org/news/sql-and-databases-full-course/)
+  - [codecademy-Learn SQL](https://www.codecademy.com/enrolled/courses/learn-sql)
 
 ## Tech skills:
 - [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
