@@ -6,12 +6,6 @@ From the beginning, my professional path has been associated with teamwork and p
 ### Test cases:
 * [Tested website](https://opensource-demo.orangehrmlive.com/) - [Test cases based on given user stories](https://docs.google.com/spreadsheets/d/1r3vS7pHKNPxiZW9HhoVQ2zyKChzo5z-s52egAvtuX7c/edit?usp=sharing)
   
-### Bug reports:
-* [Website Bug Reports](lin do doksa google)
-> All bug reports were written based on bugs found during manual implementation Test Cases listed above on the [different version of the testing website](https://thinking-tester-contact-list.herokuapp.com/)
-> All bug reports were written based on bugs found during exploratory tests on the [Vinted native application](link do apki)
-### Test report:
-* [Test report](link do doksa)
 ## Tools
 ### Automation tools:
 - JavaScript
