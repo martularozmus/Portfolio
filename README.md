@@ -6,6 +6,11 @@ From the beginning, my professional path has been associated with teamwork and p
 ### Test cases:
 * [Tested website](https://opensource-demo.orangehrmlive.com/) - [Test cases based on given user stories](https://docs.google.com/spreadsheets/d/1r3vS7pHKNPxiZW9HhoVQ2zyKChzo5z-s52egAvtuX7c/edit?usp=sharing)
   
+### Bug reports:
+* [Website Bug Reports]()
+> All bug reports were written based on bugs found during exploratory tests on the [Vinted native application](https://demo.statlook.com/account)
+### Test report:
+* [Test report](https://docs.google.com/spreadsheets/d/1yxvjQOA06-Un6Q5xYggtOoRYIEDM4hH_OmpnTLXDKi4/edit?gid=1342673370#gid=1342673370)
 ## Tools
 ### Automation tools:
 - JavaScript
