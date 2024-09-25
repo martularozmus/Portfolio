@@ -8,7 +8,7 @@ From the beginning, my professional path has been associated with teamwork and p
   
 ### Bug reports:
 * [Website Bug Reports]()
-> All bug reports were written based on bugs found during exploratory tests on the [Vinted native application](https://demo.statlook.com/account)
+> All bug reports were written based on bugs found during exploratory tests on the [Statlook application](https://demo.statlook.com/account)
 ### Test report:
 * [Test report](https://docs.google.com/spreadsheets/d/1yxvjQOA06-Un6Q5xYggtOoRYIEDM4hH_OmpnTLXDKi4/edit?gid=1342673370#gid=1342673370)
 ## Tools
